@@ -1,0 +1,17 @@
+{
+  "name": "aws-lambda-google-search",
+  "version": "1.0.0",
+  "description": "Google Search in AWS Lambda",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-lambda-web": "^1.0.0"
+  },
+  "devDependencies": {
+    "node-lambda": "git+https://github.com/motdotla/node-lambda.git"
+  },
+  "scripts": {
+    "event": "node ./node_modules/node-lambda/bin/node-lambda run"
+  }
+}
