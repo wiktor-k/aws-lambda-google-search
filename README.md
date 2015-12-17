@@ -18,3 +18,5 @@ Slack sends URL-encoded data in HTTP requests an [additional configuration](http
 in [API Gateway](https://aws.amazon.com/api-gateway/) is needed.
 
 See [Serverless Slack Integrations with node.js, AWS Lambda, and AWS API Gateway](http://www.ryanray.me/serverless-slack-integrations) for details.
+
+![Slash command demo](slash-command.png "Slash command in action")
